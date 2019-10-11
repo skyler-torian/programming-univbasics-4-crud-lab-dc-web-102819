@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array=["test",'test1']
+  array=["Wow","I","am","really","learning"]
   array<<"test3"
 end
 
